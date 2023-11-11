@@ -57,18 +57,6 @@ _Ensure to replace placeholders with actual values._
 
 This document provides configuration details and commands for Cisco Catalyst 2960-X Series Switches.
 
-## Factory Reset
-
-1. Connect to the switch using a console cable and terminal emulation software such as PuTTY or HyperTerminal.
-2. Power on the switch.
-3. During the boot-up process, press and hold the "Mode" button until the "SYST LED" turns solid green.
-4. Release the "Mode" button and wait for the switch to finish booting up.
-5. Once the switch has finished booting up, enter the following command: `erase startup-config` and press enter.
-6. You will be prompted to confirm the action. Type `yes` and press enter.
-
-
-
-
 ## Base Configurations
 
 
@@ -85,3 +73,11 @@ switchport access vlan 1
 ```
 _Ensure to replace placeholders with actual values._
 
+## Factory Reset
+
+1. Connect to the switch using a console cable and terminal emulation software such as PuTTY or HyperTerminal.
+2. Power on the switch.
+3. During the boot-up process, press and hold the "Mode" button until the "SYST LED" turns solid green.
+4. Release the "Mode" button and wait for the switch to finish booting up.
+5. Once the switch has finished booting up, enter the following command: `erase startup-config` and press enter.
+6. You will be prompted to confirm the action. Type `yes` and press enter.
