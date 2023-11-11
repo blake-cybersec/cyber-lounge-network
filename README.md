@@ -1,6 +1,6 @@
 
 # Cyber Lounge Network
-## _Your Ultimate Guide to Cisco Network Configurations_
+## _A Live Network used for a College Class Room_
 
 
 Cyber Lounge Network is a comprehensive network configuration project focusing on Cisco devices, Dell servers and virtualization software, tailored to meet diverse computing and networking needs. Central to the design is the deployment of Cisco 1941 Series Routers. These routers are acclaimed for their robust security features and efficient traffic management, ensuring reliable and secure network operations. Complementing these routers are the Cisco Catalyst 2960-X Series Switch. Known for their scalability and energy efficiency, these switch facilitate streamlined network management and adaptability to evolving network demands.
